@@ -1,32 +1,32 @@
 <html>
 <meta charset="utf-8">
 <head>
-<link rel="stylesheet" type="text/css"  href="css/registro.css">
-<title> Registro de usuarios </title> 
+<link rel="stylesheet" type="text/css"  href="css/comentario.css">
+<title> Comentario </title> 
 </head>
 <body>
-<h2>Registro de usuarios</h2>
-<p>Completa el siguiente formulario con los datos solicitados: </p>
+<h4>Comentarios</h4>
+<p>Completa el siguiente formulario: </p>
 <form action="guarda_comentario.php" method="post">
     <div>
-	<label for="nombre">Numero de cuenta:</label>
+	<label for="nombre">Nombre: </label>
 	<input type="text" name="nombre" />
     </div>
     <div>
-        <label for="Correo">Nombre:</label>
+        <label for="correo">Correo: </label>
         <input type="email" name="correo" />
     </div>
     <div>
-	<label for="Comentario">Apellido Paterno:</label>
-	<input type="text" name="apaterno" />
+	<p>Comenta aqui: </p>
+	<textarea rows="4" cols="50" name="comment" form="usrform">Comenta aqui...</textarea>
     </div>
     <div>
-	<label for="tel">Telefono:</label>
-	<input type="text" name="tel" />
-    </div>	
-    <div>
+	<br>
 	<input type="submit" value="Enviar" />
     </div>
+<br/>
 </form>
+<a href="https://www.unam.mx/">Pagina Oficial UNAM </a>
+<a href="http://www.fca.unam.mx/">Pagina Oficial FCA</a>
 </body>
 </html>

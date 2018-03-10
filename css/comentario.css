@@ -1,0 +1,43 @@
+body {
+	font-family: arial,Helvetica, sans-serif;
+	background-color: #265B6A;
+	color:white;
+}
+
+h4 {
+	padding: 20px;
+	color: white;
+	background-color: #022A35;
+	font-size:1em;
+}
+
+h5 {
+	padding: 10px;
+	color: white;
+	font-size:1em;
+}
+
+										p {
+											color: white;
+									
+}
+
+form {	
+	padding: 20px;
+	border: 2px;
+	background-color: #447684;
+										}
+
+ul {
+	padding: 20px;
+	background-color: #75AF96;
+}
+
+a:link, a:visited {
+	background-color: #0F414F;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
