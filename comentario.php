@@ -28,5 +28,7 @@
 </form>
 <a href="https://www.unam.mx/">Pagina Oficial UNAM </a>
 <a href="http://www.fca.unam.mx/">Pagina Oficial FCA</a>
+<a href="http://www.zmolina.unam.mx/">Inicio</a>
+<a href="http://php.net/manual/es/">Creditos</a><br/>
 </body>
 </html>

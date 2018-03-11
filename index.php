@@ -9,24 +9,25 @@
 <h4><center>Licenciatura en informatica</center></h4>
 <h5>5 Asignaturas  Favoritas</h5>
 <ul><em>
-  <li><a href="https://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjl4tnS-dzZAhVL1lMKHb1HBUoQFggoMAA&url=https%3A%2F%2Fes.slideshare.net%2Fmstabare%2Fplaneacin-y-gestin-de-proyectos-informticos&usg=AOvVaw0o15jGfjn-bsm98-ojW7Ow">Planeacion de Proyectos informaticos</a></li>
-  <li><a href="">Seguridad informatica</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Videojuego">Sistemas Operativos Multiusuarios</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Normas_ISO_9000">Planeacion de Proyectos informaticos</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Seguridad_inform%C3%A1tica">Seguridad informatica</a></li>
+    <li><a href="https://www.mastiposde.com/sistema_operativo_multiusuario.html">Sistemas Operativos Multiusuarios</a></li>
   <li><a href="https://es.wikipedia.org/wiki/Inteligencia_artificial">Sistemas de Inteligencia Artificial</a></li>
-  <li><a href="">Desarrollo de simulacion de videojuegos</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Videojuego">Desarrollo de simulacion de videojuegos</a></li>
 </em></ul> 
 <h5>5 Asignaturas  NO Favoritas</h5>
 <ul><em>
-  <li><a href="">Matematicas Financieras</a></li>
-  <li><a href="">Investigacion de operaciones</a></li>
-  <li><a href="">Calculo</a></li>
-  <li><a href="">Contabilidad</a></li>
-  <li><a href="">Programacion (Estructura de datos)</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Matem%C3%A1tica_financiera">Matematicas Financieras</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Matem%C3%A1ticas_discretas">Matematicas discretas</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Derivada">Calculo</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Contabilidad">Contabilidad</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Investigaci%C3%B3n_de_operaciones">Investigacion de operaciones</a></li>
 <em/></ul>  
-
-<p><a href="https://www.unam.mx/">Pagina Oficial UNAM </a></p><br/>
-<p><a href="http://www.fca.unam.mx/">Pagina Oficial FCA</a></p>
-<p><a href="http://www.zmolina.unam.mx/comentario.php">Comentario</a></p><br/>
 </form>
+<center><a href="http://www.zmolina.unam.mx/comentario.php">Deja tu comentario</a></center>
+<a href="https://www.unam.mx/" class="pagina">Pagina Oficial UNAM </a><br/>
+<a href="http://www.fca.unam.mx/" class="pagina">Pagina Oficial FCA</a><br/>
+<a href="http://php.net/manual/es/" class="pagina">Creditos</a><br/>
+
 </body>
 </html>
